@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development and software development
 - 🌱 I’m currently learning C++ and Python, and I am excited to learn more.
 - 📫 How to reach 
-  - Email: dev.ianmthomas@gmail.com
+  - Email: tmithomas98@gmail.com
 
 <!---
 DevIMT/DevIMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
